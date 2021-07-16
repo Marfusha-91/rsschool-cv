@@ -22,4 +22,4 @@ my strengths:
     Mogilev State Medical College
     TrainingCenterLLC"AytiDizayn" «Front-end web development from scratch»
 
-0. I learn English from films,I didn't check my proficiency level.
+0. I learn English from films,I didn't check my proficiency level. 
