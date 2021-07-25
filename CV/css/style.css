@@ -3,7 +3,7 @@
     body { font-family: 'Open Sans', sans-serif;
         font-family: 'Roboto', sans-serif;    }
 
-.cv { width: 1280px;
+.cv { width: 1280px; 
     margin: auto; }
 .cv h1 { font-size: 50px;
          margin: 50px 0px 0px 70px;
@@ -17,4 +17,4 @@
 .content { margin: 50px 70px;}
 .content h4 {margin-top: 20px;}
 .content li {padding-top: 10px;}
-.content h3 {padding-top: 20px;}
+.content h3 {padding-top: 20px; }
