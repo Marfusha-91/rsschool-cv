@@ -1,2 +1,2 @@
 
-https://Marfusha-91.github.io/rsschool-cv/
+https://Marfusha-91.github.io/rsschool-cv/index.html
